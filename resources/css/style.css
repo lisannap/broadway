@@ -1,0 +1,22 @@
+body {
+  font-family: Helvetica;
+  color: dimgray;
+}
+h1 {
+  font-size: 70px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+}
+.withbg {
+  color: white;
+}
+p.withbg {
+  font-size: 18px;
+}
