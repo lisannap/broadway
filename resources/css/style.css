@@ -1,6 +1,8 @@
 body {
   font-family: Helvetica;
   color: dimgray;
+  text-align: center;
+
 }
 h1 {
   font-size: 70px;
@@ -14,9 +16,22 @@ h3 {
 p {
   font-size: 14px;
 }
+a {
+  color: white;
+  font-size: 18px;
+}
+strong {
+  font-size: 11px;
+  font-weight: normal;
+}
 .withbg {
   color: white;
+  font-weight: bold;
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 p.withbg {
   font-size: 18px;
+}
+#graybg {
+  background-color: dimgray;
 }
